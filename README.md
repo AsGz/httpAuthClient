@@ -12,7 +12,7 @@ go get github.com/AsGz/httpAuthClient
 ```
 
 
-```golang```
+```go
 
 url := "https:xxxxxxxxx"
 username := "yourname"
