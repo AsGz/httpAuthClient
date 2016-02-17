@@ -2,7 +2,8 @@
 
 ## Add digest authenticates header for http request 
 reference resources:
-> [http-digest-auth-client](https://github.com/ryanjdew/http-digest-auth-client)
+- [http-digest-auth-client](https://github.com/ryanjdew/http-digest-auth-client)
+- [go-http-auth-server](https://github.com/abbot/go-http-auth)
 
 ## example
 
